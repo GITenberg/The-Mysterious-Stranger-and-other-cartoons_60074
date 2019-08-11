@@ -1,0 +1,28 @@
+_repo: The-Mysterious-Stranger-and-other-cartoons_60074
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McCutcheon, John T. (John Tinney)
+    aliases:
+    - McCutcheon, John Tinney
+    - McCutcheon, J. T. (John Tinney)
+    birthdate: 1870
+    deathdate: 1949
+    gutenberg_agent_id: '8700'
+    url: http://www.gutenberg.org/2009/agents/8700
+    wikipedia: http://en.wikipedia.org/wiki/John_T._McCutcheon
+description: ''
+gutenberg_issued: '2019-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60074'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Mysterious Stranger
+
+  and other cartoons'
+url: http://www.gutenberg.org/ebooks/60074
